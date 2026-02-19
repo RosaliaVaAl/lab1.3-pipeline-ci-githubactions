@@ -8,6 +8,8 @@ En este laboratorio el alumno aprenderá los fundamentos de los pipelines de Git
 sencillo para una aplicación Java con Spring Boot y Maven. 
 
 ## Parte 1 - CI
+(mi ejecución)
+[![build and text of Java Project](https://github.com/RosaliaVaAl/lab1.3-pipeline-ci-githubactions/actions/workflows/main.yml/badge.svg)](https://github.com/RosaliaVaAl/lab1.3-pipeline-ci-githubactions/actions/workflows/main.yml)
 
 ```YML
 name: Build and test of Java Project
